@@ -1,0 +1,9 @@
+{
+	"soruce": "extend",
+	"version": "1.7.12",
+	"controllers": {
+		"FeatherLight": "FeatherLight.php"
+	},
+	"main_class": "FeatherLight",
+	"embed": false
+}

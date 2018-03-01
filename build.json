@@ -1,0 +1,10 @@
+{
+	"id": "featherlight",
+	"version": "1.7.12",
+	"description": "ultra slim jQuery lightbox",
+	"categories": [
+		"design",
+		"lightbox"
+	],
+	"compatible_from": "2018.3"
+}
