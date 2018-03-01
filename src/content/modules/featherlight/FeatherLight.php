@@ -8,6 +8,7 @@ class FeatherLight extends MainClass {
 	}
 	public function head() {
 		enqueueStylesheet ( ModuleHelper::buildModuleRessourcePath ( "featherlight", "css/featherlight.min.css" ) );
+		
 		return getCombinedStylesheetHtml ();
 	}
 }
